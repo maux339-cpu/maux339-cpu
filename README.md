@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+  <img src="./avatar.png" alt="maux avatar" width="180" style="border-radius: 50%;"/>
+</p>
+
+<h2 align="center">maux</h2>
+<p align="center"><b>Offensive Security Researcher</b> · Red Team · Crypto Protocol Audit</p>
+
+<p align="center">
   <a href="https://github.com/maux339-cpu">
     <img src="https://readme-typing-svg.demolab.com/?lines=Offensive+Security+Researcher;Active+Directory+%2F+Kerberos+Attack+Paths;802.11+Wireless+Auditing;Bug+Bounty+%26+Crypto+Protocol+Review;Lab-first.+Authorized+only.&font=Fira+Code&center=true&width=600&height=40&color=58a6ff&vCenter=true&pause=1500&size=18" alt="typing"/>
   </a>
@@ -17,6 +24,8 @@
   <img src="https://img.shields.io/github/followers/maux339-cpu?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-Red%20Team-c9252b?style=flat" alt="focus"/>
   <img src="https://img.shields.io/badge/OPSEC-Tor%20%2B%20Whonix-7e4798?style=flat&logo=tor-project&logoColor=white" alt="opsec"/>
+  <img src="https://img.shields.io/badge/Approach-Lab--first-7ee787?style=flat" alt="approach"/>
+  <img src="https://img.shields.io/badge/Authorized_only-✓-58a6ff?style=flat" alt="authorized"/>
 </p>
 
 ---
